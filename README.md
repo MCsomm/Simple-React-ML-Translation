@@ -1,12 +1,19 @@
-# React + Vite
+🧠 Client-side Translation using Transformers.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌍 Supports 200+ Languages via the Xenova/nllb-200-distilled-600M model
 
-Currently, two official plugins are available:
+⚡ Built with Vite for lightning-fast development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧵 Runs ML inference in a Web Worker to keep the UI responsive
 
-## Expanding the ESLint configuration
+📊 Progress bars show real-time loading of model files
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📝 Text input/output areas for typing and viewing translations
+
+📤 No backend or API calls — everything happens in the browser
+
+🚀 Model downloads on-demand only when you click Translate
+
+🧪 Just a simple ML playground — not production-ready, but fun!
+
+🛠️ Great starting point if you're curious about in-browser ML apps
